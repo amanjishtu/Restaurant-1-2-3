@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+
+h4 {
+	color: darkorange;
+}
+
+table.center {
+	color: rgb(31, 39, 16);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu {
+	text-align: center;
+	color: darkslategrey;
+}
+
+div.header h1 {
+	font-family: 'Luckiest Guy', cursive;
+	color: brown;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 15px;
+}
+
+div.footer {
+	text-align: center;
+	color: white;	
+	background-color: darkorange;
+}
+
+#myCarousel {
+	background-color: darkorange;
+	border: 5px solid darkkhaki;
+}
+	
+div.item {
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+
+.carousel-indicators li {
+	visibility: hidden;
+}
+	
+
+
+.jumbotron p {
+	color: white;
+	background-color: sienna;
+	font-size: 55px;
+	text-align: center;
+}
+
+
+div.main {
+	background-color: lightyellow;
+	border: 5px solid brown;
+}
+
+a:link {	
+background-color: orange;	
+}
+
+a:visited {
+	color: solid brown;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+a:active {
+	text-decoration: none;
+	
+}
+
+label {
+	color: black;
+}

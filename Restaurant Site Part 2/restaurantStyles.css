@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+h1 {
+		   font-family: 'Lobster', cursive;
+		   color: brown;
+		   font-weight: bold;
+		   padding-top: 15px;
+		}
+
+header {
+	text-align: center;
+	
+}
+
+footer {
+	text-align: center;
+	
+}
+
+body {
+	padding: 10px 0px;
+}
+
+div.main {
+	background-color: goldenrod;
+}
+
+a:link {
+	
+	
+}
+
+a:visited {
+	color: gray;
+	
+}
+
+a:hover {
+	font-weight: bold;
+	
+}
+
+a:active {
+	text-decoration: none;
+}
